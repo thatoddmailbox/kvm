@@ -1,5 +1,5 @@
 # kvm
-An open-source HDMI Keyboard/Video/Mouse (KVM) switch, which lets you switch two monitors and four USB devices between up to three computers. Theoretically, should support HDMI 1.3a at up to 1920 x 1200 resolution, but that's completely untested and probably depends on how well I actually designed the board.
+An open-source HDMI Keyboard/Video/Mouse (KVM) switch, which lets you switch two monitors and four USB devices between up to three computers. Theoretically, it should support HDMI 1.3a and up to 1920 x 1200 resolution, but that's completely untested and probably depends on how well I actually designed the board.
 
 The base has a total of six HDMI inputs (three computers with two monitors each) and two HDMI outputs (for the two monitors). It also has four mini-USB ports (three computers and one for power), four USB host ports (to connect a mouse, keyboard, and anything else), and a connector that goes to the keypad.
 
