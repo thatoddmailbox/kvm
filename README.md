@@ -5,7 +5,7 @@ The base has a total of six HDMI inputs (three computers with two monitors each)
 
 The keypad has a 3x3 grid of buttons. Pressing the buttons lets you switch monitor 1, monitor 2, and the USB ports between the three computers. It connects to the base via a cable, and receives power over that connection.
 
-A PS/2 connector and cable is used between the base and keypad. **Importantly, neither device actually speaks the PS/2 protocol!** PS/2 was just chosen because connectors and cables are readily available. You should not connect either device to anything else with a PS/2 port.
+A [PS/2 connector](https://en.wikipedia.org/wiki/PS/2_port) and cable is used between the base and keypad. **Importantly, neither device actually speaks the PS/2 protocol!** PS/2 was just chosen because connectors and cables are readily available. You should not connect either device to anything else with a PS/2 port.
 
 The source code/files are split up over several different repositories:
 * [kvm-base](https://github.com/thatoddmailbox/kvm-base) - The main switch, with all input/output ports, and a connector that goes to the keypad.
