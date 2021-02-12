@@ -1,5 +1,5 @@
 # kvm
-An open-source HDMI Keyboard/Video/Mouse (KVM) switch. Has support for two monitors and up to three computers.
+An open-source HDMI Keyboard/Video/Mouse (KVM) switch, which lets you switch two monitors and four USB devices between up to three computers.
 
 The base has a total of six HDMI inputs (three computers with two monitors each) and two HDMI outputs (for the two monitors). It also has four mini-USB ports (three computers and one for power), four USB host ports (to connect a mouse, keyboard, and anything else), and a connector that goes to the keypad.
 
