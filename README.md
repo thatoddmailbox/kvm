@@ -16,3 +16,4 @@ The source code/files are split up over several different repositories:
 (still a work in progress)
 
 * Order and assemble PCBs for the base and keypad. The respective repositories have manufacturing files that you can use.
+* Follow the instructions in the kvm-fw to program the base and the keypad. You will need at least one ST-LINK adapter.
