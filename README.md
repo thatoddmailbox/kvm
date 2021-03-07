@@ -20,7 +20,7 @@ The source code/files are split up over several different repositories:
 (still a work in progress)
 
 * Order and assemble PCBs for the base and keypad. The respective repositories have manufacturing files that you can use. For the base in particular, it's very important to use the correct impedance-controlled stackup. See the base's README for details.
-* Follow the instructions in the kvm-fw to program the base and the keypad. You will need at least one ST-LINK adapter.
+* Follow the instructions in the kvm-fw respository to program the base and the keypad. You will need at least one ST-LINK adapter.
 	* If you want to debug the firmware, it will be helpful to have one or two USB to UART adapters and a second ST-LINK.
 * You will also need a PS/2 cable to connect the base and keypad together, and HDMI and mini-USB cables to connect to the various ports on the base.
 * For the base, it's also recommended to get five M2 standoffs, which you can place in the mounting holes.
