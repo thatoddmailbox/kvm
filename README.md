@@ -1,5 +1,5 @@
 # kvm
-> This is still a work in progress! More specifically, the keypad and base do not yet communicate.
+> This is still a work in progress! More specifically, the firmware is still a work in progress&mdash;the keypad and base do not yet communicate.
 
 An open-source HDMI Keyboard/Video/Mouse (KVM) switch, which lets you switch two monitors and four USB devices between up to three computers.
 
