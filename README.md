@@ -22,7 +22,7 @@ The source code/files are split up over several different repositories:
 ## Building one
 (still a work in progress)
 
-Note that, currently, there are some [known issues](https://github.com/thatoddmailbox/kvm-base#known-issues) with the design.
+Note that the current board revision has some [known issues](https://github.com/thatoddmailbox/kvm-base#known-issues).
 
 * Order and assemble PCBs for the base and keypad. The respective repositories have manufacturing files that you can use. For the base in particular, it's very important to use the correct impedance-controlled stackup. See the base's README for details.
 * Follow the instructions in the kvm-fw respository to program the base and the keypad. You will need at least one ST-LINK adapter.
