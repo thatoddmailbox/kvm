@@ -14,7 +14,7 @@ The keypad has a 3x3 grid of buttons. Pressing the buttons lets you switch monit
 
 A [PS/2 connector](https://en.wikipedia.org/wiki/PS/2_port) and cable is used between the base and keypad. **Importantly, neither device actually speaks the PS/2 protocol!** PS/2 was just chosen because connectors and cables are readily available. You should not connect either device to anything else with a PS/2 port, or any sort of PS/2 adapter. (you most likely won't break anything, but it definitely won't work)
 
-The source code/files are split up ove r several different repositories:
+The source code/files are split up over several different repositories:
 * [kvm-base](https://github.com/thatoddmailbox/kvm-base) - The main switch, with all input/output ports, and a connector that goes to the keypad.
 * [kvm-keypad](https://github.com/thatoddmailbox/kvm-keypad) - The keypad, used to select the state of the various switches. Connected to the base.
 * [kvm-fw](https://github.com/thatoddmailbox/kvm-fw) - The firmware that runs on both the base and the keypad.
