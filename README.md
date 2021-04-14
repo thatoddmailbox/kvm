@@ -1,6 +1,8 @@
 # kvm
 > This is still a work in progress!
 
+[base](./base.jpg)
+
 An open-source HDMI Keyboard/Video/Mouse (KVM) switch, which lets you switch two monitors and four USB devices between up to three computers.
 
 Theoretically, it should support HDMI 1.3a and up to 1920 x 1200 resolution. Anecdotally, it has been tested up to 2560 x 1440 at 75 Hz and it seems to work. I currently don't have the equipment to measure the signal quality or anything like that, and don't have a monitor with a higher resolution, so I don't know how far it can be pushed.
