@@ -2,6 +2,7 @@
 > This is still a work in progress!
 
 ![base](./base.jpg)
+![keypad](./keypad.jpg)
 
 An open-source HDMI Keyboard/Video/Mouse (KVM) switch, which lets you switch two monitors and four USB devices between up to three computers.
 
