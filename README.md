@@ -1,5 +1,5 @@
 # kvm
-> This is still a work in progress!
+> This is still a work in progress! There are some [known issues](https://github.com/thatoddmailbox/kvm-base#known-issues).
 
 ![base](./base.jpg)
 ![keypad](./keypad.jpg)
