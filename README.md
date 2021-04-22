@@ -1,8 +1,8 @@
 # kvm
 > This is still a work in progress! There are some [known issues](https://github.com/thatoddmailbox/kvm-base#known-issues).
 
-![base](./base.jpg)
-![keypad](./keypad.jpg)
+<img src="./base.jpg" alt="The base" />
+<img src="./keypad.jpg" alt="The keypad" />
 
 An open-source HDMI Keyboard/Video/Mouse (KVM) switch, which lets you switch two monitors and four USB devices between up to three computers.
 
